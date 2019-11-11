@@ -1,0 +1,5 @@
+Write a program that gets the traffic from your interface(TCPDUMP) and then use API to map the location of IP addresses.
+ 
+Dependencies:
+pip install python-geoip-geolite2
+scapy
